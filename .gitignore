@@ -1,0 +1,23 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/JG.FinTechTest/v16/Server/sqlite3
+/JG.FinTechTest/obj
+/JG.FinTechTest.Tests/obj
+/.vs/JG.FinTechTest/v16
+/JG.FinTechTest/bin/Debug/netcoreapp2.1
+/JG.FinTechTest.Tests/bin/Debug/netcoreapp2.1
+/JG.FinTech.Features/obj/Debug/netcoreapp2.1
+/.vs/JG.FinTechTest/DesignTimeBuild
+/JG.FinTech.Features/bin/Debug
+/JG.FinTech.Features/obj
+/JG.FinTech.Models/bin/Debug
+/JG.FinTech.Models/obj
+/JG.FinTechTest.Tests/bin/Debug/netcoreapp2.2
+/.vs/JG.FinTechTest/config
+/JG.FinTech.Domain/bin/Debug
+/JG.FinTech.Domain/obj/Debug
+/JG.FinTech.Domain/obj
+/JG.FinTechTest/bin/Debug/netcoreapp3.0
+/JG.FinTechTest.Tests/bin/Debug/netcoreapp3.0
